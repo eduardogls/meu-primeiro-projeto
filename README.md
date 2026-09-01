@@ -9,3 +9,6 @@ testando mais uma vez .....
 novo teste
 
 criado na teste-branch
+
+## como instalar
+Em breve
